@@ -276,9 +276,9 @@ body{
 
   }
  
-@media screen and (max-width:360px) { 
+@media screen and (max-width:364px) { 
     .botones {
-          width: 200px;
+          width: 300px;
       }
     .botones-f {
         width: 140px;
