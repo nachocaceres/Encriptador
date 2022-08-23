@@ -78,6 +78,7 @@ body{
     border-radius: 24px;
     width: 328px;
     height: 67px;
+    border: 1px solid #128f8b;
     color: #ffffff;
     transition: 0.3s;
     font-size: 1.4rem
@@ -86,6 +87,8 @@ body{
 .encriptador:hover {
     background-color: #184C67;
     transform: translateY(-0.25em);
+    background-color: #fbffff;
+    color: #128f8b;
     }
 
 .desencriptador, .copiar{
