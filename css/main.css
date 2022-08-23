@@ -91,10 +91,10 @@ body{
 .desencriptador, .copiar{
     width: 328px;
     height: 67px;
-    background: #184C67;
+    background: #fbffff;
     border: 1px solid #128f8b;
     border-radius: 24px;
-    color: #ffffff;
+    color: #128f8b;
     transition: 0.3s;
     font-size: 1.4rem;
 }
@@ -102,6 +102,8 @@ body{
 .desencriptador:hover, .copiar:hover{
     background-color: #128f8b;
     transform: translateY(-0.25em);
+    color: #ffffff;
+    border: 1px solid #ffffff
 }
 
 .munieco{
